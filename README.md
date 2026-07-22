@@ -151,4 +151,4 @@ Smart-Bracelet/
 - MPU6500通过I2C2通信，确认AD0引脚电平选择正确地址(0x68/0x69)
 - ESP8266模块通过USART1连接，波特率需匹配
 - FreeRTOS堆空间配置为10KB (`configTOTAL_HEAP_SIZE`)
-<img width="291" height="170" alt="image" src="https://github.com/user-attachments/assets/edbc46bb-d0e5-4be2-8f9d-6e9cf13cd6dd" /><img width="291" height="170" alt="image" src="https://github.com/user-attachments/assets/69683270-4ecd-4e26-b160-dc9be93e1181" />
+
